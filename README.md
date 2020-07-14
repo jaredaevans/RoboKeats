@@ -7,29 +7,20 @@ John Keats was a prolific Romantic poet. Alongside Byron and Shelley, Keats is w
 Using a simple LSTM network and Keats existing work, this program tries to mimic Keats words from text seeds at the character level
 
 Sample:  
- of piller hand the fearful about the water  
- the gooding did a cure it linger pale  
- of the weary fearful but be grown hours  
- and on the morning sullen like more  
- and there delight viice would be divine  
- on  his press'd the from lot his ragic felt  
- 'tis heart known man powers of the river death  
- are all the were my splendours she stattle years  
- young green prisow'd ilve on roses delight  
- with sicken or from we great his on her idling   
- 
- the silver in her as a flowers with a slow  
- and contente will i courses in the rear'd  
- to this summer sick the bloom unto the mark  
- upon his song and bursting and she stood  
- the wind the frights and so fair pass  
- to see the friends in her these shade and strange  
- the feel the through the breathless in archies  
- who there is the child winter in the sad look  
- the summer pity the from the fair day  
- and the lake of the forest white happy round  
- and bright of flowers to the corn to tears  
- the breathless still the dews and shepherd  
+ the first more little shades for since  
+ and a feeling soul with side  
+ the bright cruel arm charm'd upon  
+ and felt he can not charmed  
+ on the old than and white dead  
+ dear so more in her stars made  
+ to her stars of bright again  
+ the said great the leaves beauty  
+ strive the bright and spread more shade  
+ for cares he stood he poor speak of a shade  
+ in each faint my day no more closed smile  
+ would i strange love sparkling fair and streams  
+ the mouth of orge many a wander to string  
+ perching my blood with pillow hard muse were there  
 
 
 With a higher temperature, RoboKeats quickly starts to sound more like Lewis Carroll:  
