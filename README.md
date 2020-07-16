@@ -1,10 +1,10 @@
 # RoboKeats
 
-John Keats was a prolific Romantic poet. Alongside Byron and Shelley, Keats is widely regarded as one of the most influencial from the second generation of Romantic.  His career was extraordinary, especially considering its brevity - he died from tuberculosis at age 25.  Though he was not well known in his lifetime, his potent prose has inspired generations of others and brought him to deserved fame.  That he produced so much memorable work in his lifetime brings many, inclusing myself, to wonder what he might have achieved if only blessed with more time.  This is my foolhardy attempt to continue his works. :)
+John Keats was a prolific Romantic poet. Alongside Byron and Shelley, Keats is widely regarded as one of the most influencial figures from the second generation of Romantic poets.  His career was extraordinary, especially considering its brevity - he died from tuberculosis at age 25.  Though he was not well known in his lifetime, his potent prose has inspired generations of others and brought him to deserved fame.  That he produced so much memorable work in his lifetime brings many, including myself, to wonder what he might have achieved if only blessed with more time.  This is my foolhardy attempt to continue his works. :)
 
 ## Embedding-based 
 
-Using a deeper LSTM network and Keats existing work, this program tries to mimic Keats words from text seeds at the word level
+Using a deeper LSTM network and Keats existing work, this program tries to mimic Keats words from text seeds at the word level.  It does a surprisingly good job of capturing the spirit of his prose.  Maybe he needs an editor though?
 
  an incense delights of summer wings  
  to every half years of this moment grace  
