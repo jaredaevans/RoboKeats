@@ -2,6 +2,29 @@
 
 John Keats was a prolific Romantic poet. Alongside Byron and Shelley, Keats is widely regarded as one of the most influencial from the second generation of Romantic.  His career was extraordinary, especially considering its brevity - he died from tuberculosis at age 25.  Though he was not well known in his lifetime, his potent prose has inspired generations of others and brought him to deserved fame.  That he produced so much memorable work in his lifetime brings many, inclusing myself, to wonder what he might have achieved if only blessed with more time.  This is my foolhardy attempt to continue his works. :)
 
+## Embedding-based 
+
+Using a deeper LSTM network and Keats existing work, this program tries to mimic Keats words from text seeds at the word level
+
+ an incense delights of summer wings  
+ to every half years of this moment grace  
+ her on green brow had but so past every dim  
+ and once was into her own strange woe  
+ when there had ever soft like grief  
+ flew the silver seasons was his meek  
+ and onward from its summer streams how gone  
+ came happy as upon the world they stood  
+ old could a tale and never they had gone  
+ his long spirit lean upon his hand born  
+ and every stars the splendour 'twas the head  
+ dost see his own golden spirit it could see  
+ 
+ upon the after deep of trees  
+ some green world on a noise wherewith  
+ think in thy ear of light moment sleep  
+ from aye o themselves for we doth find  
+ every lovely sigh of human lovers done  
+
 ## Character-based 
 
 Using a simple LSTM network and Keats existing work, this program tries to mimic Keats words from text seeds at the character level
