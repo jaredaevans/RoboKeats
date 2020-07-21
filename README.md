@@ -2,6 +2,27 @@
 
 John Keats was a prolific Romantic poet. Alongside Byron and Shelley, Keats is widely regarded as one of the most influencial figures from the second generation of Romantic poets.  His career was extraordinary, especially considering its brevity - he died from tuberculosis at age 25.  Though he was not well known in his lifetime, his potent prose has inspired generations of others and brought him to deserved fame.  That he produced so much memorable work in his lifetime brings many, including myself, to wonder what he might have achieved if only blessed with more time.  This is my foolhardy attempt to continue his works. :)
 
+### To do:
+- Expand corpus:  his letters also consider training on works by Byron or Shelley
+- Better attention or transformer
+
+## Embedding + Attention 
+
+Using a deeper LSTM network with attention, this program tries to mimic Keats words from text seeds at the word level.  It does a surprisingly good job of capturing the spirit of his prose. 
+
+ glimmers thy crescent wheresoe'er it be  
+ 'tis in the breath of heaven thou dost taste  
+ freedom as none can taste it nor dost waste  
+ thy loveliness in dismal elements  
+ but finding in our green earth sweet contents  
+ there livest blissfully ah thou was day  
+ as list looking and i wept to such  
+ ah more sudden impious o'er my store  
+ is dying like fair passing in oberon  
+ ah for he pass ye wherefore not i can has tell  
+ on this sweet dew that hear this sweet jubilee  
+ sweet thousand thoughts would never was drear air  
+
 ## Embedding-based 
 
 Using a deeper LSTM network and Keats existing work, this program tries to mimic Keats words from text seeds at the word level.  It does a surprisingly good job of capturing the spirit of his prose.  Maybe he needs an editor though?
